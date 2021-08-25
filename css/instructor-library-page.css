@@ -105,3 +105,26 @@
 .table-lib-header{
   border: 1px solid black;
 }
+.quiz-info{
+  margin-top: 50px;
+}
+.quiz-img{
+  float: left;
+  width: 180px;
+  height: 180px;
+  margin-right: 8px;
+  
+}
+.code-background{
+  background-color: #7fe3a6;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.code-content{
+  
+  background-color: #eca82c;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 5px;
+}
